@@ -1,10 +1,10 @@
 # Điều gì tạo nên một trang web di động tốt  ? |  Các nguyên tắc cơ bản của web | Google developers
 
-Jenny Gove là một chuyên gia ngiên cứu UX tại Google , nơi mà cô tiến hành nghiên cứu về trải nghiệm trên điện thoại thông minh.Cô lấy bằng tiến sĩ tại Đại học Southampton, Vương quốc Anh.
+Jenny Gove là một chuyên gia ngiên cứu UX tại Google , nơi mà cô tiến hành nghiên cứu về trải nghiệm trên điện thoại thông minh.Cô có bằng tiến sĩ tại Đại học Southampton, Vương quốc Anh.
 
 Google và AnswerLab đã tiến hành một nghiên cứu để trả lời câu hỏi này.
 
-> Người sử dụng thiết bị di động luôn hướng theo mục tiêu mà họ muốn.Họ mong đợi những cái mà họ cần , nhanh chóng và theo cách riêng của họ.
+> Người sử dụng thiết bị di động luôn hướng theo mục tiêu mà họ muốn.Họ mong đợi những cái mà họ cần , ngay lập tức và theo cách riêng của họ.
 
 Nghiên cứu được diễn ra trong suốt 119 giờ,những người tham gia sẽ có khả năng sử dụng trực tiếp các session ở mỹ.Những người tham gia được yêu cầu thực hiện các nhiệm vụ chính trên một tập hợp các trang web di động đa dạng. Người dùng iOS và Android đã được bao gồm và người dùng đã kiểm tra các trang web trên điện thoại của chính họ. Đối với mỗi trang web, người tham gia được yêu cầu nói to suy nghĩ của mình khi họ hoàn thành các nhiệm vụ tập trung vào chuyển đổi như mua hàng hoặc đặt trước.
 
@@ -16,17 +16,16 @@ Nghiên cứu đã phát hiện 25 nguyên tắc thiết kế trang web dành ch
 
 ### Giữ những lời gọi đến hành động ở phía trước và giữa
 
-Làm cho các tác vụ phụ có sẵn thông qua các menu hoặc "dưới màn hình đầu tiên" (một phần của trang web không thể xem được mà không cần cuộn xuống).
+Thực hiện các tác vụ phụ có sẵn thông qua các menu hoặc "dưới màn hình đầu tiên" (một phần của trang web không thể xem được mà không cần cuộn xuống).
 
-![][4]**Nên**: Làm cho tất cả các tác vụ phổ biến nhất của người dùng đều có sẵn và dễ dàng.
+![][4]**Nên**: Làm cho tất cả các tác vụ phổ biến nhất của người dùng đều sẵn sàng và thực hiện dễ dàng.
 
-![][5]**Không nên**: Xử lý không gian quý giá trên màn hình đầu tiên với các lời kêu gọi hành động mơ hồ như “tìm hiểu thêm”.
+![][5]**Không nên**: Lãng phí không gian quý giá trên màn hình đầu tiên với các lời kêu gọi hành động mơ hồ như “tìm hiểu thêm”.
 
 ### Làm các thanh menu ngắn gọn và đẹp mắt.
 
 ![][6]**Nên**: Làm các thanh menu ngắn gọn và đẹp mắt..
 
-Mobile users don't have the patience to scroll through a long list of options to find what they want. Reorganize your menu to use as few items as possible, without sacrificing usability.
 Những người sử dụng di động thì thường không kiên nhẫn để kéo thanh cuộn gồm 1 danh sách các thuộc tính dài dằng dặc để tìm thứ họ muốn.Tái tổ chức lại menu của bạn để sử dụng càng ít mục càng tốt, mà không phải hy sinh khả năng sử dụng.
 
 ### Làm cho việc quay trở lại trang chủ dễ dàng hơn.
@@ -37,9 +36,9 @@ Người sử dụng mong muốn quay trở lại ngay trang chủ khi họ ấn
 
 ### Không cho phép quảng cáo chiếm quá nhiều phần hiển thị.
 
-Quảng cáo xen kẽ cài đặt ứng dụng lớn (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện nhiệm vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, các trang web sử dụng quảng cáo chuyển tiếp có thể thấy tác động tiêu cực đến thứ hạng tìm kiếm của họ..
+Quảng cáo xen kẽ cài đặt ứng dụng lớn (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện nhiệm vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, các trang web sử dụng quảng cáo xen kẽ có thể thấy tác động tiêu cực đến thứ hạng tìm kiếm của họ..
 
-![][9]**Nên**: Quảng cáo nên dễ dàng để loại bỏ và không được làm sao nhãng các trải nghiệm khác.
+![][9]**Nên**: Quảng cáo nên dễ dàng tắt đi và không được làm sao nhãng các trải nghiệm khác.
 
 ![][10]**Không nên**: Quảng cáo xen kẽ (đôi khi được gọi là sập cửa) thường khiến người dùng khó chịu và khiến trang web bị trừng phạt.
 
@@ -56,7 +55,7 @@ Người dùng tìm kiếm thông tin thường chuyển sang tìm kiếm, do đ
 ![][12]**Không nên**: Ẩn thanh tìm kiếm phía dưới menu
 
 ### Đảm bảo rằng kết quả tìm kiếm là phù hợp 
-Người dùng không quét qua nhiều trang kết quả để tìm thấy những gì họ đang tìm kiếm. Giúp người dùng dễ dàng hơn bằng cách tự động hoàn tất truy vấn, sửa lỗi chính tả và đề xuất các truy vấn liên quan. Thay vì phát minh lại bánh xe, hãy xem xét các sản phẩm mạnh mẽ như Tìm kiếm tùy chỉnh của Google.
+Người dùng không duyệt qua nhiều trang kết quả để tìm thấy những gì họ đang tìm kiếm. Giúp người dùng dễ dàng hơn bằng cách tự động hoàn tất truy vấn, sửa lỗi chính tả và đề xuất các truy vấn liên quan. Thay vìlàm lại những gì đã có, hãy tham khảo các sản phẩm mạnh mẽ như Tìm kiếm tùy chỉnh của Google.
 
 ![][14]**Nên**: Macy's chỉ nên trả về đồ trẻ em.
 
@@ -75,11 +74,11 @@ Những người tham gia nghiên cứu dựa vào bộ lọc để tìm thấy 
 ![Zappos guides users by asking them what they're looking for.][19]
 **Nên**: Giúp người dùng tìm thấy những gì họ đang tìm kiếm bằng cách hướng dẫn họ đi đúng hướng.
 
-Đối với các trang web có phân khúc khách hàng đa dạng, hãy hỏi một số câu hỏi trước khi trình bày hộp tìm kiếm và sử dụng câu trả lời của khách hàng làm bộ lọc truy vấn tìm kiếm để đảm bảo rằng người dùng nhận được kết quả từ phân đoạn có liên quan nhất.
+Đối với các trang web có phân khúc khách hàng đa dạng, hãy hỏi một số câu hỏi trước khi hiển thị hộp tìm kiếm và sử dụng câu trả lời của khách hàng làm bộ lọc truy vấn tìm kiếm để đảm bảo rằng người dùng nhận được kết quả từ phân đoạn có liên quan nhất.
 
 ## Thương mại và chuyển đổi
 
-**Kết quả:** Hiểu hành trình khách hàng của bạn và cho phép người dùng chuyển đổi theo các điều khoản của riêng họ.
+**Kết quả:** Hiểu luồng khách hàng của bạn và cho phép người dùng chuyển đổi theo các điều khoản của riêng họ.
 
 ### Cho phép người dùng khám phá trước khi họ cam kết
 
@@ -101,17 +100,17 @@ Ghi nhớ và điền sẵn các tùy chọn cho người dùng đã đăng ký.
 
 ### Sử dụng các nút bấm để gọi cho các tác vụ phức tạp
 
-Trên các thiết bị có khả năng gọi điện, liên kết nhấp để gọi cho phép người dùng thực hiện cuộc gọi điện thoại bằng cách chỉ cần nhấn vào liên kết. Trên hầu hết các thiết bị di động, người dùng sẽ nhận được xác nhận trước khi số được gọi hoặc trình đơn được trình bày hỏi người dùng cách xử lý số.
+Trên các thiết bị có khả năng gọi điện, liên kết nhấp để gọi cho phép người dùng thực hiện cuộc gọi điện thoại bằng cách chỉ cần nhấn vào liên kết. Trên hầu hết các thiết bị di động, người dùng sẽ nhận được xác nhận trước khi số được gọi hoặc một menu hiện ra hỏi người dùng cách xử lý số.
 
 ### Giúp dễ dàng hoàn thành trên thiết bị khác
 
 ![][25]**Nên**: Cung cấp các cách dễ dàng để người dùng tiếp tục duyệt hoặc mua sắm trên một thiết bị khác.
 
-Người dùng thường xuyên muốn hoàn thành tác vụ trên các thiết bị khác. Ví dụ, họ có thể muốn xem một mục trên màn hình lớn hơn. Hoặc họ có thể bận rộn và cần phải hoàn thành sau. Hỗ trợ các hành trình của khách hàng này bằng cách cho phép người dùng chia sẻ các mục trên mạng xã hội hoặc bằng cách cho phép người dùng tự gửi email liên kết trực tiếp từ trang web.
+Người dùng thường xuyên muốn hoàn thành tác vụ trên các thiết bị khác. Ví dụ, họ có thể muốn xem một mục trên màn hình lớn hơn. Hoặc họ có thể bận rộn và cần phải hoàn thành sau. Hỗ trợ các luồng của khách hàng này bằng cách cho phép người dùng chia sẻ các mục trên mạng xã hội hoặc bằng cách cho phép người dùng tự gửi email liên kết trực tiếp từ trang web.
 
-## Mục nhập biểu mẫu
+## Đầu vào form
 
-**Kết quả:** Cung cấp trải nghiệm chuyển đổi liền mạch, hòa hợp với các biểu mẫu có thể sử dụng.
+**Kết quả:** Cung cấp trải nghiệm chuyển đổi liền mạch, hòa hợp với các form có thể sử dụng.
 
 ### Hợp lý hóa mục nhập thông tin
 
@@ -155,17 +154,17 @@ Người dùng cảm thấy thoải mái với các trang web cuộn theo chiề
 
 Khách hàng nhằm mục đích mua hàng mong đợi các trang web cho phép họ xem cận cảnh có độ phân giải cao của sản phẩm. Những người tham gia nghiên cứu cảm thấy thất vọng khi họ không thể thấy những gì họ đang mua.
 
-### Cho người dùng biết định hướng nào hoạt động tốt nhất
+### Cho người dùng biết hướng làm việc nào tốt nhất
 
 ![][38]**Nên**: Cho người dùng biết định hướng nào hoạt động tốt nhất.
 
-Những người tham gia nghiên cứu có khuynh hướng ở cùng một hướng màn hình cho đến khi có điều gì đó khiến họ chuyển đổi. Thiết kế cho cả cảnh quan và chân dung hoặc khuyến khích người dùng chuyển sang hướng tối ưu. Đảm bảo rằng lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng bỏ qua đề xuất để chuyển hướng.
+Những người tham gia nghiên cứu có khuynh hướng ở cùng một hướng màn hình cho đến khi có điều gì đó khiến họ chuyển đổi. Thiết kế cho cả chiều ngang và chiều rộng hoặc khuyến khích người dùng chuyển sang hướng tối ưu. Đảm bảo rằng lời gọi hành động quan trọng của bạn có thể được hoàn thành ngay cả khi người dùng bỏ qua đề xuất để chuyển hướng.
 
 ### Giữ người dùng của bạn trong một cửa sổ trình duyệt duy nhất
 
 ![][39]**Nên**: Macy giữ người dùng của họ trên trang web của họ bằng cách cung cấp phiếu giảm giá trên trang web.
 
-Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. Tránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành trình nào có thể khiến người dùng nhìn bên ngoài trang web của bạn và cung cấp các tính năng để giữ chúng trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu thưởng, hãy cung cấp phiếu thưởng trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác cho giao dịch.
+Người dùng có thể gặp sự cố khi chuyển đổi giữa các cửa sổ và có thể không tìm được đường quay lại trang web. Tránh gọi hành động khởi chạy cửa sổ mới. Xác định bất kỳ hành trình nào có thể khiến người dùng nhìn bên ngoài trang web của bạn và cung cấp các tính năng để giữ chúng trên trang web của bạn. Ví dụ: nếu bạn chấp nhận phiếu giảm giá, hãy cung cấp phiếu giảm giá trực tiếp trên trang web, thay vì buộc người dùng tìm kiếm các trang web khác cho giao dịch.
 
 ### Tránh ghi nhãn “toàn trang”
 
