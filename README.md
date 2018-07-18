@@ -1,12 +1,12 @@
 # Điều gì tạo nên một trang web di động tốt  ? |  Các nguyên tắc cơ bản của web | Google developers
 
-Jenny Gove là một chuyên gia ngiên cứu UX tại Google , nơi mà cô tiến hành nghiên cứu về trải nghiệm trên điện thoại thông minh.Cô lấy bằng tiến sĩ tại Đại học Southampton, Vương quốc Anh.
+Jenny Gove là  một trưởng nhóm nghiên cứu UX tại Google, nơi mà cô tiến hành nghiên cứu về trải nghiệm trên điện thoại thông minh.Cô lấy bằng tiến sĩ tại Đại học Southampton, Vương quốc Anh.
 
 Google và AnswerLab đã tiến hành một nghiên cứu để trả lời câu hỏi này.
 
 > Người sử dụng thiết bị di động luôn hướng theo mục tiêu mà họ muốn.Họ mong đợi những cái mà họ cần , nhanh chóng và theo cách riêng của họ.
 
-Nghiên cứu được diễn ra trong suốt 119 giờ,những người tham gia sẽ có khả năng sử dụng trực tiếp các session ở mỹ.Những người tham gia được yêu cầu thực hiện các nhiệm vụ chính trên một tập hợp các trang web di động đa dạng. Người dùng iOS và Android đã được bao gồm và người dùng đã kiểm tra các trang web trên điện thoại của chính họ. Đối với mỗi trang web, người tham gia được yêu cầu nói to suy nghĩ của mình khi họ hoàn thành các nhiệm vụ tập trung vào chuyển đổi như mua hàng hoặc đặt trước.
+Nghiên cứu được diễn ra trong suốt 119 giờ,với các cuộc thử nghiệm từ những người tham gia trực tiếp ở Mỹ. Những người tham gia được yêu cầu thực hiện các nhiệm vụ chính trên một tập hợp các trang web di động đa dạng. Bao gồm cả những người dùng IOS và Android, và người dùng đã kiểm tra các trang web trên điện thoại của chính họ. Đối với mỗi trang web, người tham gia sẽ được hỏi để nói lên suy nghĩ của họ khi họ hoàn thành các nhiệm vụ tập trung vào chuyển đổi như mua hàng hoặc đặt chỗ trước.
 
 Nghiên cứu đã phát hiện 25 nguyên tắc thiết kế trang web dành cho thiết bị di động, được nhóm thành năm danh mục.
 
@@ -26,7 +26,6 @@ Làm cho các tác vụ phụ có sẵn thông qua các menu hoặc "dưới mà
 
 ![][6]**Nên**: Làm các thanh menu ngắn gọn và đẹp mắt..
 
-Mobile users don't have the patience to scroll through a long list of options to find what they want. Reorganize your menu to use as few items as possible, without sacrificing usability.
 Những người sử dụng di động thì thường không kiên nhẫn để kéo thanh cuộn gồm 1 danh sách các thuộc tính dài dằng dặc để tìm thứ họ muốn.Tái tổ chức lại menu của bạn để sử dụng càng ít mục càng tốt, mà không phải hy sinh khả năng sử dụng.
 
 ### Làm cho việc quay trở lại trang chủ dễ dàng hơn.
@@ -37,7 +36,7 @@ Người sử dụng mong muốn quay trở lại ngay trang chủ khi họ ấn
 
 ### Không cho phép quảng cáo chiếm quá nhiều phần hiển thị.
 
-Quảng cáo xen kẽ cài đặt ứng dụng lớn (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện nhiệm vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, các trang web sử dụng quảng cáo chuyển tiếp có thể thấy tác động tiêu cực đến thứ hạng tìm kiếm của họ..
+Các ứng dụng lớn sẽ cài các quảng cảo xen kẽ (ví dụ: quảng cáo toàn trang ẩn nội dung và nhắc người dùng cài đặt ứng dụng) làm phiền người dùng và khiến việc thực hiện nhiệm vụ trở nên khó khăn. Ngoài việc gây phiền nhiễu đến người dùng, các trang web sử dụng quảng cáo chuyển tiếp có thể thấy tác động tiêu cực đến thứ hạng tìm kiếm của họ..
 
 ![][9]**Nên**: Quảng cáo nên dễ dàng để loại bỏ và không được làm sao nhãng các trải nghiệm khác.
 
@@ -123,7 +122,7 @@ Sử dụng loại đầu vào phù hợp nhất cho từng kịch bản. Sử d
 
 ### Cung cấp lịch trực quan để chọn ngày
 
-![][29]**Nên**: sử dụng các widget lịch khi có thể.
+![][29]**Nên**: sử dụng lịch khi có thể.
 
 Ghi rõ ngày bắt đầu và ngày kết thúc. Người dùng không cần phải rời khỏi trang web và kiểm tra ứng dụng lịch để lên lịch cho một ngày.
 
@@ -175,7 +174,7 @@ Khi người tham gia nghiên cứu thấy tùy chọn “trang web đầy đủ
 
 Người dùng phải luôn hiểu tại sao bạn đang yêu cầu vị trí của họ. Những người tham gia nghiên cứu cố gắng đặt một khách sạn ở một thành phố khác trở nên bối rối khi một trang web du lịch phát hiện vị trí của họ và cung cấp các khách sạn ở thành phố hiện tại của họ thay thế. Để trống trường vị trí theo mặc định và cho phép người dùng chọn điền chúng thông qua lời gọi hành động rõ ràng như “Tìm gần tôi”.
 
-![][41]**Nên**:Luôn yêu cầu quyền truy cập vào vị trí trên cử chỉ của người dùng.
+![][41]**Nên**: Luôn luôn yêu cầu truy cập vị trí dựa trên địa chỉ của người dùng.
 
 ![][42]**Không nên**: Yêu cầu ngay lập tức trên trang chủ khi trang web tải kết quả trong trải nghiệm người dùng kém.
 
